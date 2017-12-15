@@ -1,0 +1,10 @@
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\bin\Debug\GlobalTestAppWF.exe.config
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\bin\Debug\GlobalTestAppWF.exe
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\bin\Debug\GlobalTestAppWF.pdb
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.csprojResolveAssemblyReference.cache
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.Form1.resources
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.Properties.Resources.resources
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.csproj.GenerateResource.Cache
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.csproj.CoreCompileInputs.cache
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.exe
+c:\users\air\documents\visual studio 2017\Projects\GlobalTestAppWF\GlobalTestAppWF\obj\Debug\GlobalTestAppWF.pdb
